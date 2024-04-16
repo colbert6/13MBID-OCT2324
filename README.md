@@ -9,6 +9,11 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
+Inicio de la actividad práctica I : 12/marzo/2024
+
+Alumno: Colbert Moises Bryan Calampa Tantachuco
+Alumna: Elena Miranda
+
 ## Descripción del contenido
 
 Carpetas:
